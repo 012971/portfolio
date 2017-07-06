@@ -7,6 +7,20 @@ li a {
     display: block;
     width: 60px;
 }
+li {
+    display: inline;
+}
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+Try it Yourself »
+
 <ul>
   <li><a href="index.html">Home</a></li>
   <li><a href="about.html">About</a></li>
