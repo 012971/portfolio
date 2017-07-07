@@ -1,9 +1,19 @@
-<nav>
-  <a href="index.html">Home</a>
-  <a href="about.html">About</a>
-  <a href="csprojects.html">CS projects</a>
-  <a style="float:right"><a class="active"</a>
-</nav>
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}    
 
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 
 
