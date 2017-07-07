@@ -1,4 +1,4 @@
-ul {
+nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,15 +9,14 @@ a {
     padding: 8px;
     background-color: #dddddd;
 }
-Try it Yourself »
 
-<ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="about.html">About</a></li>
-  <li><a href="csprojects.html">CS projects</a></li>
-  <li style="float:right"><a class="active"</a></li>
-</ul>
-ul {
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="csprojects.html">CS projects</a>
+  <a style="float:right"><a class="active"</a>
+</nav>
+nav {
     position: fixed;
     top: 0;
     width: 100%;
