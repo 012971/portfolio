@@ -1,3 +1,10 @@
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="csprojects.html">CS projects</a>
+  <a style="float:right"><a class="active"</a>
+</nav>
+
 nav {
     list-style-type: none;
     margin: 0;
@@ -10,14 +17,4 @@ a {
     background-color: #dddddd;
 }
 
-<nav>
-  <a href="index.html">Home</a>
-  <a href="about.html">About</a>
-  <a href="csprojects.html">CS projects</a>
-  <a style="float:right"><a class="active"</a>
-</nav>
-nav {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
+
