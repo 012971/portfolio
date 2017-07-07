@@ -4,11 +4,7 @@ nav {
     padding: 0;
 }    
 
-a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-}
+
 
 nav {
     position: fixed;
