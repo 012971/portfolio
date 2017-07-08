@@ -6,10 +6,8 @@ nav {
     position: fixed;
     top: 0;
     width: 50%;
-    background-color:rgb(128,128,128);
-   
+    background-color:rgb(128,128,128);   
     display:block;
-    display:none;
 }    
 
 h2{
