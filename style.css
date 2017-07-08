@@ -5,10 +5,10 @@ nav {
     text-size:20px;
     position: fixed;
     top: 0;
-    width: 50%;
+    width: 100%;
     background-color:rgb(180,180,180);   
     display:block;
-    color:green;
+    color:rgb(0,180,0);
 }    
 
 h2{
