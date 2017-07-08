@@ -3,21 +3,12 @@ nav {
     margin: 0;
     padding:10px;
     text-size:20px;
-    display:none;
-}    
-
-
-
-nav {
     position: fixed;
     top: 0;
     width: 50%;
     background-color:rgb(128,128,128);
-   
-   
-}
-
-
+    display:none;
+}    
 
 h2{
     padding:35px;
