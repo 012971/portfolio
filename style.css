@@ -18,6 +18,10 @@ h2{
     text-font:sans-serif;
    
 }
+h1{
+    padding:35px;
+    text-font:sans-serif;
+}
 body{
     text-align:center;
 }
