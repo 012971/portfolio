@@ -24,3 +24,6 @@ body{
     text-align:center;
     text-font:italic;
 }
+table, th, td {
+    border:1px solid black;
+}
