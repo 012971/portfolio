@@ -1,8 +1,8 @@
 nav {
     list-style-type: none;
     margin: 0;
-    padding:10px;
-    text-size:40px;
+    padding:10;
+    text-size:40;
     position: fixed;
     top: 0;
     width: 100%;
@@ -13,16 +13,16 @@ nav {
 
 h2{
     padding:35px;
-    text-font:sans-serif;
+    text-font:verdana;
    
 }
 h1{
     padding:35px;
-    text-font:sans-serif;
+    text-font:arial;
 }
 body{
     text-align:center;
-    text-font:italic;
+    font-style:italic;
 }
 table, th, td {
     border:1px solid black;
